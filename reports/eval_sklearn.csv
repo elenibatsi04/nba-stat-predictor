@@ -1,0 +1,4 @@
+Target,Median_MAE,Pinball_50,Target_Cov (80%),Empirical_Cov,Mean_80_Width
+PTS,4.793,2.396,0.8,0.789,15.46
+REB,1.943,0.971,0.8,0.795,6.26
+AST,1.405,0.703,0.8,0.893,4.98
